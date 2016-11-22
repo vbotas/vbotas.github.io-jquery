@@ -1,0 +1,1 @@
+Utiliza jQuery, según se indica en el apartado “How jQuery Works” del manual “About jQuery” para realizar una página HTML tal que cuando se pulse cualquiera de sus enlaces se muestre una ventana emergente que diga “Hola”.
